@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in capstone
+          mi primera app usando devops
         </a>
       </header>
     </div>
